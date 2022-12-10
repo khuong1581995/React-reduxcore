@@ -93,7 +93,7 @@
     "cross-env": "^5.2.0",
     "devextreme": "^18.2.7",
     "devextreme-react": "^18.2.7",
-    "express": "4.16.4",
+    "express": "4.17.3",
     "fontfaceobserver": "2.0.13",
     "gg-editor": "^2.0.4",
     "highcharts": "^7.1.1",
